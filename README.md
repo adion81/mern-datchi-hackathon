@@ -15,7 +15,23 @@ Group into teams of
 Three to four and no more than five
 Oh MERN ninjas
 you will compete in
-Dojodatchi MERN Hack-a-thon
+Dojodatchi React Hack-a-thon
+
+Ya gotta build it in React
+Make use of components
+It can be any ol' theme you want
+A favorite show or person
+
+Cuz you know there's some magic
+when it renders to the DOM
+I know you can code it
+
+Oh MERN ninjas
+Group into teams of
+Three to four and no more than five
+Oh MERN ninjas
+you will compete in
+Dojodatchi React Hack-a-thon
 
 ```
 
