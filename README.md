@@ -3,7 +3,7 @@
 ```
 The game is Dojodatchi
 It's like a Tamagatchi
-It need to be feed to survive
+You need to feed it to survive
 Gotta work so you can feed it
 
 Cuz you know that it'd be tragic
@@ -15,7 +15,7 @@ Group into teams of
 Three to four and no more than five
 Oh MERN ninjas
 you will compete in
-Dojodatchi React Hack-a-thon
+Dojodatchi Hack-a-thon
 
 Ya gotta build it in React
 Make use of components
@@ -31,7 +31,7 @@ Group into teams of
 Three to four and no more than five
 Oh MERN ninjas
 you will compete in
-Dojodatchi React Hack-a-thon
+Dojodatchi Hack-a-thon
 
 ```
 
