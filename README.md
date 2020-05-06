@@ -19,6 +19,10 @@ Dojodatchi MERN Hack-a-thon
 
 ```
 
+## DOJODATCHI
+
+<img src="http://s3.amazonaws.com/General_V88/boomyeah/company_209/chapter_4028/handouts/chapter4028_7643_Dojodachi-Wireframe.png" alt="Dojodatchi wireframe" width="600px">
+
 ## Available Scripts
 
 In the project directory, you can run:
